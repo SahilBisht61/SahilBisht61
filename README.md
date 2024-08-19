@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilBisht61
-- 👀 I’m interested Web development and blockchain
+- 👀 I’m interested in  Web development and blockchain
 - 🌱 I’m currently learning web development
 
 
